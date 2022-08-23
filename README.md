@@ -23,7 +23,7 @@ As best practice (not mandatory), we recommend installing virtualenv and virtual
 
 Then, to install project prerequisites, inside the project root, run:
 ```
-pip install .
+pip install -r requirements.txt
 ```
 ### Run the server mock
 #### Windows
