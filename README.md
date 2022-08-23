@@ -39,7 +39,9 @@ PYTHONPATH=. flask run
 ```
 ## Run tests the API
 #### Windows and linux
+```buildoutcfg
 python runTests.py
+```
 
 ## Authentication
 Authentication is *not* required.
