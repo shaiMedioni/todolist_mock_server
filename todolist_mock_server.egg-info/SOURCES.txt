@@ -1,0 +1,8 @@
+README.md
+setup.py
+todolist_mock_server.egg-info/PKG-INFO
+todolist_mock_server.egg-info/SOURCES.txt
+todolist_mock_server.egg-info/dependency_links.txt
+todolist_mock_server.egg-info/requires.txt
+todolist_mock_server.egg-info/top_level.txt
+todolist_mock_server.egg-info/zip-safe
